@@ -1,7 +1,7 @@
 public class FRQ9and10 {
 
 /*
-a.) The PictureBook class is a subcass of the Book class that has the additional attribute: a String variable named
+a.) The PictureBook class is a subclass of the Book class that has the additional attribute: a String variable named
 illustrator that is used to represent the name of the illustrator of a picture book. The PictureBook class also
 contains a printBookInfo method to print the title, writer, and illustrator of a picture book. Complete PictureBook
 class below.
